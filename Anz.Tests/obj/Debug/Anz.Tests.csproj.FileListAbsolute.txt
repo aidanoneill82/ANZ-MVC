@@ -1,0 +1,110 @@
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\WebApplication1.Tests.dll.config
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\WebApplication1.Tests.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\WebApplication1.Tests.pdb
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Anz.Web.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Owin.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\EntityFramework.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Anz.Web.pdb
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\EntityFramework.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\obj\Debug\Anz.Tests.csprojResolveAssemblyReference.cache
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\obj\Debug\WebApplication1.Tests.dll
+C:\Users\full_stick\Documents\Visual Studio 2015\Projects\Anz\Anz.Tests\obj\Debug\WebApplication1.Tests.pdb
+C:\Dev\Anz\Anz.Tests\bin\Debug\roslyn\csc.exe
+C:\Dev\Anz\Anz.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\Anz\Anz.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\Anz\Anz.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\roslyn\vbc.exe
+C:\Dev\Anz\Anz.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Dev\Anz\Anz.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Dev\Anz\Anz.Tests\bin\Debug\WebApplication1.Tests.dll.config
+C:\Dev\Anz\Anz.Tests\bin\Debug\WebApplication1.Tests.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\WebApplication1.Tests.pdb
+C:\Dev\Anz\Anz.Tests\bin\Debug\Anz.Web.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\System.Web.Razor.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\Owin.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\EntityFramework.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Dev\Anz\Anz.Tests\bin\Debug\Anz.Web.pdb
+C:\Dev\Anz\Anz.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\Anz\Anz.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Dev\Anz\Anz.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Dev\Anz\Anz.Tests\bin\Debug\System.Web.Razor.xml
+C:\Dev\Anz\Anz.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Dev\Anz\Anz.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Dev\Anz\Anz.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Dev\Anz\Anz.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Dev\Anz\Anz.Tests\bin\Debug\EntityFramework.xml
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Dev\Anz\Anz.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Dev\Anz\Anz.Tests\obj\Debug\Anz.Tests.csprojResolveAssemblyReference.cache
+C:\Dev\Anz\Anz.Tests\obj\Debug\WebApplication1.Tests.dll
+C:\Dev\Anz\Anz.Tests\obj\Debug\WebApplication1.Tests.pdb

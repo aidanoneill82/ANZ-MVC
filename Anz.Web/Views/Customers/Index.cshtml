@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Anz.Web.Models.Customer>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Customers</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using (Ajax.BeginForm(
+    new AjaxOptions
+{
+    HttpMethod = "get",
+    InsertionMode = InsertionMode.Replace,
+    UpdateTargetId = "customerList"}))
+{
+    <input type="search" name="searchTerm"/>
+    <input type="submit" value="Search By Name"/>
+}
+<div id="customerList">
+    @Html.Partial("_Customers", Model)
+</div>

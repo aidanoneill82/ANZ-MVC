@@ -1,0 +1,14 @@
+﻿@model Anz.Web.Models.Customer
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Loans for @Model.FirstName @Model.LastName</h2>
+
+@Html.Partial("_Loans", Model.Loans)
+
+<p>
+    @Html.ActionLink("Create New", "Create", new { customerId = Model.Id })
+</p>
+
